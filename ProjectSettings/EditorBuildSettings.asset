@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Audio Scene/Audio Scene.unity
     guid: b59c5e4045f41b54d9efa8a0ca96414b
   m_configObjects:
-    com.unity.addressableassets: {fileID: 11400000, guid: 34080d2027876864eb546c52b7754d21,
+    com.unity.addressableassets: {fileID: 11400000, guid: 0b969153c757d4d01b74346a95f3285c,
       type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: fa5df5a2b83ea344c913dc56eaf4a7af,
       type: 2}
